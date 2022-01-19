@@ -1,3 +1,6 @@
+
+                                                                         Pyton
+
 print("Ezek az eszközök találhatók otthon :")
 print("\n Router ár:10000ft","\nSwitch ár:15000ft","\n Wifi router ár:10000ft","\n Számítógép ár:300000ft","\n Laptop ár:150000ft","\n Telefon ár:100000","\n Tablet ár:50000ft")
 print(" ")
@@ -30,3 +33,15 @@ for food in termek:
 print("Összesen: ",sum(ossz),"ft")
 
 #Egy személyre.
+
+                                                                       Packet Tracer
+
+
+
+
+
+
+
+
+
+
