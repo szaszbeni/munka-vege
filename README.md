@@ -1,3 +1,8 @@
+                                                                    Rövid összefoglaló
+
+  Az elején több pyton módszert is megpróbáltam ,de egyik se sikerült. Nagyon sok helyen keresgéltem hogy hogy lehetne megcsinálni.A packet tracert azért így oldottam meg ,mert nagyon sokáig szenvedtem vele hogy hogyan lehetne feltölteni. A pytonnal kezdtem ,bár ahoz képest hogy egyedül csináltam és nem vagyok egy nagy programozó elég szépen ösze raktam.
+
+
 
                                                                          Pyton
 
@@ -36,11 +41,7 @@ print("Összesen: ",sum(ossz),"ft")
 
                                                                        Packet Tracer
 
-
-
-
-
-
+https://user-images.githubusercontent.com/71766125/150181230-8dedf734-8a0d-46fe-bfdd-5e0fb9e30962.png
 
 
 
